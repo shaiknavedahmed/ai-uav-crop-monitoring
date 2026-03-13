@@ -60,18 +60,14 @@ The system demonstrates the **Sense → Analyze → Alert** pipeline used in UAV
 ai-uav-crop-monitoring
 │
 ├── firmware
-│ └── esp32_cam_alert_system.ino
-│
+│   └── esp32_cam_alert_system.ino
 ├── server
-│ └── webhook_receiver.py
-│
+│   └── webhook_receiver.py
 ├── diagrams
-│ ├── block_diagram.png
-│ └── system_architecture.png
-│
+│   ├── block_diagram.png
+│   └── system_architecture.png
 ├── report
-│ └── AI-Powered_UAV_for_Precision_Crop_Monitoring.pdf
-│
+│   └── AI-Powered_UAV_for_Precision_Crop_Monitoring.pdf
 └── README.md
 
 ---
